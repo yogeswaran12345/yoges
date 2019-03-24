@@ -1,3 +1,4 @@
+//yoges
 def rev(a):
 	b=""
 	index=len(a)
