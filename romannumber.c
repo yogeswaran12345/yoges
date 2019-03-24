@@ -1,4 +1,3 @@
-#yogeswaran
 #include<stdio.h>
 void main()
 {
